@@ -1,4 +1,4 @@
-# Catch Of The Day
+# Catch Of The Day 🦞
 This is a single-page React App that allows a user to manage the Inventory and the Order of an online Seafood Market!
 
 ### To Install
