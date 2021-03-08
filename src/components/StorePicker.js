@@ -6,7 +6,7 @@ class StorePicker extends React.Component {
   myInput = React.createRef();
 
   goToStore = event => {
-    // 1. Stop the Form from SUbmitting
+    // 1. Stop the Form from Submitting
     event.preventDefault();
     // 2. Get the text from the input
     const storeName = this.myInput.current.value;
