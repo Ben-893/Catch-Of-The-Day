@@ -14,5 +14,5 @@ This is a single-page React App that allows a user to manage the Inventory and t
 
 ### To Use
 ```
-- npm start
+- npm run watch
 ```
